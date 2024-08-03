@@ -1,4 +1,4 @@
-# Finitequiz
+# Finitequizasd
 
 ![game screenshot](https://raw.githubusercontent.com/Gamify-IT/docs/main/user-manuals/minigames/assets/finitequiz-game.webp)
 This repository contains the frontend for the [Finitequiz minigame](https://gamifyit-docs.readthedocs.io/en/latest/user-manuals/minigames/finitequiz.html).
